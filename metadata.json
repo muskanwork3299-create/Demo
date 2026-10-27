@@ -1,0 +1,6 @@
+{
+  "name": "InsightLayer | AI Reporting Preview",
+  "description": "Enterprise reporting proof-of-concept demonstrating how existing deterministic calculations are transformed into executive business explanations using Anthropic Claude without allowing AI to alter underlying figures.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
